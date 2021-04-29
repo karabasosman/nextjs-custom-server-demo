@@ -23,7 +23,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span>
-            <Image src="https://oskvmsdiag.blob.core.windows.net/images/uploads/banner/0040600x.png" alt="Vercel Logo" width={72} height={16} />
+            <Image src="https://oskvmsdiag.blob.core.windows.net/images/uploads/banner/0040600x.png" alt="Vercel Logo" width={1024} height={768} />
           </span>
         </a>
       </footer>
