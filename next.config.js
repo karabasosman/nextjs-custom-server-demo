@@ -1,5 +1,5 @@
 module.exports = {
     images: {
-      domains: ['azwetbmrstagloadingdata.blob.core.windows.net'],
+      domains: ['oskvmsdiag.blob.core.windows.net'],
     },
   }
